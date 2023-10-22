@@ -1,0 +1,32 @@
+body{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    height: 140px;
+    width: 300px;
+    border: solid gray 2px;
+    text-align: center;
+   box-shadow: 2px 1px 1px;
+   
+    
+}
+
+#dec{
+    height: auto;
+    margin: 6px;
+}
+#inc{
+    height: auto;
+    margin: 6px;
+}
+#display_value{
+    height: 12px;
+    width: 2px;
+    border: solid black 1px;
+    padding: 3px ;
+    
+}
